@@ -28,4 +28,9 @@ public class QuestionFactoryTest extends TestCase {
 
     }
 
+    @Test
+    public void testFactoryOther(){
+
+    }
+
 }
