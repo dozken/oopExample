@@ -6,6 +6,4 @@ public interface QuestionService {
 
     Question create();
 
-    void delete(long id);
-
 }

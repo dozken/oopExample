@@ -15,8 +15,4 @@ public class ShortAnswerQuestionService implements QuestionService {
         return question;
     }
 
-    @Override
-    public void delete(long id) {
-
-    }
 }

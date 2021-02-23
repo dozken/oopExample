@@ -18,9 +18,4 @@ public class MultipleChoiceQuestionService implements QuestionService {
         return question;
     }
 
-    @Override
-    public void delete(long id) {
-
-    }
-
 }

@@ -6,8 +6,6 @@ public class QuestionFactory {
 
 
     /**
-     *
-     *
      * @param type
      * @return
      */

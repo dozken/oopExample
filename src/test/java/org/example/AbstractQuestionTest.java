@@ -8,7 +8,7 @@ import org.junit.Test;
 public class AbstractQuestionTest extends TestCase {
 
     @Test
-    public void testQuestionCreation(){
+    public void testQuestionCreation() {
 
         AbstractQuestion abstractQuestion = new MultipleChoiceQuestion();
         abstractQuestion.setId(1);
